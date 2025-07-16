@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/adhikasp-mcp-twikit-badge.png)](https://mseep.ai/app/adhikasp-mcp-twikit)
+
 # MCP-Twikit
 
 [![smithery badge](https://smithery.ai/badge/mcp-twikit)](https://smithery.ai/server/mcp-twikit)
